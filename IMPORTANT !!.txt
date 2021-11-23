@@ -1,0 +1,8 @@
+* In order to detect your face you must insert a clear picture
+(.jpg,.png) in DataSet Folder that have your name.
+* to add any other face , add a single or multiple pictures 
+to DataSet Folder that have target name.
+
+
+©Ala'a Saàf
+linkedin Account : https://bit.ly/3nFTX5D
